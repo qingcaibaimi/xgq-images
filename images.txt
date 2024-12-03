@@ -1,2 +1,2 @@
-redis:7.4.1
-nginx:1.27.2
+redis
+nginx:1.22
