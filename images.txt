@@ -1,10 +1,10 @@
 redis
 nginx:1.22
 tomcat:9.0.93
-kube-apiserver:v1.28.2
-kube-proxy:v1.28.2
-kube-controller-manager:v1.28.2
-kube-scheduler:v1.28.2
+kube-apiserver:v1.28.0
+kube-proxy:v1.28.0
+kube-controller-manager:v1.28.0
+kube-scheduler:v1.28.0
 coredns:1.7.0
 etcd:3.4.13-0
 pause:3.2
