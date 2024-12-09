@@ -1,3 +1,5 @@
 redis
 nginx:1.22
 tomcat:9.0.93
+centos:7
+centos
